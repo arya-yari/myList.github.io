@@ -1,0 +1,10 @@
+Early - 
+A simple to do list. 
+Which you can add list of to dos by entering to do.
+
+Future Build.
+Add important to do.
+Add checklist for cleared to do.
+Add time ?
+Saving on cache ?
+logging?
